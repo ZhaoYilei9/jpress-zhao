@@ -1,1 +1,3 @@
-# jpress-zhao
+全新 JPress 正在重构...
+
+旧版本请移步：https://gitee.com/fuhai/jpress/tree/alpha/
